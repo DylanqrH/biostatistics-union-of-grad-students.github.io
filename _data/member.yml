@@ -13,18 +13,6 @@
     year: MSc
     link: 'https://www.linkedin.com/in/aprilyangcheng/'
 
-  - file: Yutong_Chen.jpg
-    name: Betty Chen
-    supervisor: 'Supervisor: Dr.Rahim Moineddin, Christopher Meaney'
-    year: MSc
-    link: 'http://www.linkedin.com/in/betty-yc'
-
-  - file: Charlotte_Chen.jpg
-    name: Charlotte Chen
-    supervisor:
-    year: MSc
-    link:
-
   - file: no_pic.png
     name: ChenNingZhi Sheng
     supervisor: 'Supervisor: Dr. Rafal Kustra, Dr. Kuan Liu'
@@ -252,6 +240,18 @@
     position: PhD candidate in Western University
     year: 2020
     link: 'https://yuanbian.netlify.app/'
+
+  - file: Yutong_Chen.jpg
+    name: Betty Chen
+    supervisor: 'Supervisor: Dr.Rahim Moineddin, Christopher Meaney'
+    year: MSc
+    link: 'http://www.linkedin.com/in/betty-yc'
+
+  - file: Charlotte_Chen.jpg
+    name: Charlotte Chen
+    supervisor:
+    year: MSc
+    link:
 
   - file: Ashley_Mao.jpeg
     name: Ashley Mao
