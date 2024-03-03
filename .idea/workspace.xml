@@ -5,14 +5,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="69aedd77-7421-4c54-8ab2-314b8d43b308" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/biostatistics-union-of-grad-students.github.io.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/images/members/Desmond_Zeya_Chen.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/images/members/Feifan_Xiang .jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/images/members/Xiao_Yan.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/images/members/Yankai_Feng.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/images/members/Youxue_Ren.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/images/members/Yutong_Lu.JPG" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/_data/member.yml" beforeDir="false" afterPath="$PROJECT_DIR$/_data/member.yml" afterDir="false" />
     </list>
@@ -27,9 +19,9 @@
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 3
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 3
+}</component>
   <component name="ProjectId" id="2PTDoJQKMscSfk4mXfTkIX23AKD" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -42,6 +34,7 @@
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "WebServerToolWindowFactoryState": "false",
     "git-widget-placeholder": "main",
+    "ignore.virus.scanning.warn.message": "true",
     "last_opened_file_path": "C:/hqr/github clone/biostatistics-union-of-grad-students.github.io",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
@@ -89,6 +82,7 @@
       <workItem from="1695059002777" duration="3923000" />
       <workItem from="1695230480116" duration="425000" />
       <workItem from="1709001163951" duration="8713000" />
+      <workItem from="1709431506771" duration="868000" />
     </task>
     <servers />
   </component>

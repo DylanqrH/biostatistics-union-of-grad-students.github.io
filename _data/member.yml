@@ -57,53 +57,17 @@
     year: MSc
     link: 'https://www.linkedin.com/in/aprilyangcheng/'
 
-  - file: no_pic.png
-    name: ChenNingZhi Sheng
-    supervisor: 'Supervisor: Dr. Rafal Kustra, Dr. Kuan Liu'
-    year: MSc
-    link: 'https://www.linkedin.com/in/kara-sheng-2a77461b1/'
-
-  - file: Luis_Ledesma.jpg
-    name: Luis Ledesma
-    supervisor: 'Supervisor: Dr. Eleanor Pullenayegum'
-    year: MSc (Thesis)
-    link: 'https://www.linkedin.com/in/luisledes/'
-
   - file: Mohammad_Reza_Fahimi.jpg
     name: Mohammad Reza Fahimi
     supervisor: 'Supervisor: Dr. Osvaldo Espin-Garcia, Dr. Aya Mitani'
     year: MSc (Thesis)
     link: 'https://www.linkedin.com/in/mohammad-reza-fahimi-48a67020b/'
 
-  - file: Mu_Yang.jpg
-    name: Mu Yang
-    supervisor: 'Supervisor: Dr. Daniel Felsky'
-    year: MSc (Thesis)
-    link: 'https://www.linkedin.com/in/mu-yang-432954171/'
-
-  - file: no_pic.png
-    name: Peiyu Li
-    supervisor: 'Supervisor: Dr.Aya Mitani, Dr.Chun-Po Steve Fan, Dr.Sudipta Saha'
-    year: MSc
-    link: 'https://www.linkedin.com/in/peiyu-li-76a734235/'
-
   - file: Shijie_Min.jpg
     name: Shijie Min
     supervisor: 'Supervisor: Dr.Pingzhao Hu'
     year: MSc (Thesis)
     link:
-
-  - file: Jennifer_Su.JPG
-    name: Yi-Chen Su
-    supervisor: 'Supervisor: Dr. Huan Jiang'
-    year: MSc (AI/DS Emphasis)
-    link:
-
-  - file: Yu-Chun(Gingin)_Chien.jpg
-    name: Yu-Chun (Gingin) Chien
-    supervisor: 'Supervisor: Melanie Poulin-Costello'
-    year: MSc
-    link: 'https://www.linkedin.co  m/in/yuchunchien/'
 
   - file: Yushu_Zou.jpg
     name: Yushu Zou
@@ -300,6 +264,42 @@
     year: 2020 (Thesis)
     research: 'Research Interest: Machine learning , Missing data, Causal inference, Survival analysis'
     link: 'https://yuanbian.netlify.app/'
+
+  - file: Jennifer_Su.JPG
+    name: Yi-Chen Su
+    supervisor: 'Supervisor: Dr. Huan Jiang'
+    year: 2023 (AI/DS Emphasis)
+    link:
+
+  - file: Yu-Chun(Gingin)_Chien.jpg
+    name: Yu-Chun (Gingin) Chien
+    supervisor: 'Supervisor: Melanie Poulin-Costello'
+    year: 2023
+    link: 'https://www.linkedin.co  m/in/yuchunchien/'
+
+  - file: Mu_Yang.jpg
+    name: Mu Yang
+    supervisor: 'Supervisor: Dr. Daniel Felsky'
+    year: 2023 (Thesis)
+    link: 'https://www.linkedin.com/in/mu-yang-432954171/'
+
+  - file: no_pic.png
+    name: Peiyu Li
+    supervisor: 'Supervisor: Dr.Aya Mitani, Dr.Chun-Po Steve Fan, Dr.Sudipta Saha'
+    year: 2023
+    link: 'https://www.linkedin.com/in/peiyu-li-76a734235/'
+
+  - file: no_pic.png
+    name: ChenNingZhi Sheng
+    supervisor: 'Supervisor: Dr. Rafal Kustra, Dr. Kuan Liu'
+    year: MSc
+    link: 'https://www.linkedin.com/in/kara-sheng-2a77461b1/'
+
+  - file: Luis_Ledesma.jpg
+    name: Luis Ledesma
+    supervisor: 'Supervisor: Dr. Eleanor Pullenayegum'
+    year: MSc (Thesis)
+    link: 'https://www.linkedin.com/in/luisledes/'
 
   - file: no_pic.png
     name: Shangyi Gao
